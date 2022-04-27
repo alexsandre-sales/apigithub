@@ -26,6 +26,7 @@ Deixar responsivo, implementar o PWA e o modo dark
 ### 🔗 Link's
 
 - [Api GitHub](https://docs.github.com/pt/rest)
+- [Site Demonstrativo ](https://lexapigit.netlify.app/)
 
 ---
 
